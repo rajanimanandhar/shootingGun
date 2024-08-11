@@ -1,2 +1,2 @@
 # shootingGun
- Gun shooting game
+Ongoing.......
